@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#auth-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#task-container {
+    padding: 20px;
+}
+
+#task-modal {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    max-width: 400px;
+    margin: 0 auto;
+}
