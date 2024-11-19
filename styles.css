@@ -49,6 +49,7 @@ body{
     height: 100%;
     backface-visibility: hidden; /* Hides the back face during the flip */
     transition: transform 0.6s ease;
+margin-bottom: 100px;
    
 }
 
