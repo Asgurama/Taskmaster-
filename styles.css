@@ -106,6 +106,7 @@ button {
     align-content: center;
     margin: 12px;
     font-family: Verdana;
+    width: 90%;
 }
 
 button:hover {
